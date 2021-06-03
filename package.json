@@ -14,7 +14,7 @@
   "main": "server.js",
   "dependencies": {
     "express": ">=3.0",
-    "twilio-api": "0.3.0"
+    "twilio-api": "0.3.3"
   },
   "devDependencies": {},
   "optionalDependencies": {},
